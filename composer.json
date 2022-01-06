@@ -1,0 +1,21 @@
+{
+    "name": "hank/composer_test",
+    "description": "hh",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hank\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hank",
+            "email": "1205673679@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    }
+}

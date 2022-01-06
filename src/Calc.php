@@ -1,6 +1,6 @@
 <?php
 
-namespace Hank\ComposerTest;
+namespace Hank2222p\ComposerTest;
 
 class Calc
 {

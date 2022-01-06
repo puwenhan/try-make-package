@@ -1,11 +1,11 @@
 {
-    "name": "hank/composer_test",
+    "name": "hank2222p/composer_test",
     "description": "hh",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Hank\\ComposerTest\\": "src/"
+            "Hank2222p\\ComposerTest\\": "src/"
         }
     },
     "authors": [
